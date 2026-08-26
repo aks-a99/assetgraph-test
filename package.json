@@ -1,14 +1,1 @@
-{"name":"test","dependencies":{"lodash":"4.17.10","axios":"0.21.1"}}
-// test change
-// another change
-// trigger
-// t3
-// t4
-// t5
-// scan test
-// trigger
-// debug
-// final test
-// final test
-x
-x
+{"name":"test","dependencies":{"lodash":"4.17.10","axios":"0.21.1","node-fetch":"2.6.0"}}
