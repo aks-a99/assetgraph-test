@@ -1,1 +1,1 @@
-{"name":"test","dependencies":{"lodash":"4.17.10","axios":"0.21.1"}}
+{"name":"test","dependencies":{"lodash":"4.17.10","axios":"0.21.1","node-fetch":"2.6.0"}}
